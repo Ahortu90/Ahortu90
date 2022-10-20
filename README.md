@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 <img src="https://random-memer.herokuapp.com/" width="400px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ahortu90&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Ahortu90&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&descAlignY=51&descAlign=62)
