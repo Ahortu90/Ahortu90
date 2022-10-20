@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="400px"/>
 
----
+
 ![Profile views](https://visitcount.itsvg.in/api?id=Ahortu90&label=Profile%20Views&pretty=false)
+
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&descAlignY=51&descAlign=62)
