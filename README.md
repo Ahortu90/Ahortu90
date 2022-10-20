@@ -1,14 +1,11 @@
-### Hi there 👋
+### Hi there 👋, my name is `Ahortu Derrick`
 
 <!--
 **Ahortu90/Ahortu90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+Here are some ideas to get you started:
+-->
+
 - 💬 Chat me on ... [WhatsApp]( https://wa.me/+233558039093)
 - 📫 How to reach me: [ahortuderrick0@gmail.com](mailto:ahortuderrick0@gmail.com)
 - 😄 Pronouns: ...
@@ -50,3 +47,4 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ahortu90&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&descAlignY=51&descAlign=62)
