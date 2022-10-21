@@ -42,9 +42,11 @@ Here are some ideas to get you started:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="400px"/>
-
+<br/>
+  ### 😂Random Dev Meme
+  <img src="https://random-memer.herokuapp.com/" width="400px"/>
+  
+  <br/>
 
 ![Profile views](https://visitcount.itsvg.in/api?id=Ahortu90&label=Profile%20Views&pretty=false)
 
